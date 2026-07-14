@@ -1,0 +1,12 @@
+Investigative research - Part III
+
+Good work on finding the official state government state reference, but it wasn't specific enough for the information we need.
+
+What our analyst team needs now is one last push on some critical information. I need you to find out the official federally designated structure number of the overpass, and its condition rating for the year of 2003. 
+
+Flag format:
+Structure Number, condition rating
+e.g.
+###########, #
+
+(the number of hashes has no correlation with the actual number)
